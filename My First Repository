@@ -1,0 +1,15 @@
+Miй перший репозиторiй
+
+echo "# Lr_1" >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/Alexon19/Lr_1.git
+
+git push -u origin main
